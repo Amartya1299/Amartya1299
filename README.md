@@ -21,11 +21,6 @@ I am a Master’s student in Computer Science at Purdue University with prior in
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Amartya1299&icon=0&color=0)](https://visitcount.itsvg.in)
-## 🐍 My Contributions
-![Snake animation](https://raw.githubusercontent.com/Amartya1299/Amartya1299/output/github-contribution-grid-snake-dark.svg)
 
-[![](https://visitcount.itsvg.in/api?id=Amartya1299&icon=0&color=0)](https://visitcount.itsvg.in)
- 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
