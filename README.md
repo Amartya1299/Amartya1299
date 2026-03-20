@@ -1,9 +1,15 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Amartya%20Mishra&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Real%20Decisions&descSize=18&descAlignY=75)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
 # 💫 About Me:
 I am a Master’s student in Computer Science at Purdue University with prior industry experience at Ericsson, where I worked with Linux-based systems to analyze network performance and resolve connectivity issues, developing a strong foundation in analytical problem-solving. <br><br>I specialize in transforming raw data into meaningful insights using Python, SQL, Power BI, and R, with experience across retail <br>and e-commerce analytics.<br><br>I enjoy working on real-world datasets to uncover patterns, validate hypotheses, and build predictive models that support better business decisions.<br><br>Currently, I am working on building end-to-end Data Analytics project. <br>One of them is a complete analytics pipeline on Iowa liquor sales — ingesting raw data into HDFS, transforming it with PySpark, applying K-Means clustering to uncover purchasing patterns, and visualizing insights in Power BI. End-to-end, just the way I like it.<br><br>I transitioned from telecom (Ericsson) to data analytics — proof that career pivots are just ETL for humans 😄<br><br>
 
+## 🟢 Currently Open To
+![](https://img.shields.io/badge/Open%20To-Data%20Analyst%20Intern-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20To-Business%20Analyst%20Intern-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/Available-Summer%202026%20%7C%20Fall%202026-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Goal-Full--Time%202027-orange?style=for-the-badge)
 
-## 🌐 Socials:
+## 🌐 Find Me On The Web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amartya-mishra-b7a447230/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishra.amartya5@gmail.com) 
 
 # 💻 Tech Stack:
@@ -15,5 +21,7 @@ I am a Master’s student in Computer Science at Purdue University with prior in
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Amartya1299&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🐍 My Contributions
+![Snake animation](https://raw.githubusercontent.com/Amartya1299/Amartya1299/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
